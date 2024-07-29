@@ -1,9 +1,9 @@
 {
   "name": "excavator-calculator",
   "version": "1.0.0",
-  "description": "An Electron application with React",
+  "description": "Calculate the forces at different pivot points of the excavator",
   "main": "./out/main/index.js",
-  "author": "example.com",
+  "author": "N-Kamalesh",
   "homepage": "https://electron-vite.org",
   "scripts": {
     "format": "prettier --write .",
