@@ -1,6 +1,6 @@
 # excavator-calculator
 
-An Electron application with React
+An Electron application with React can help you calculate the forces at different points in an excavator like Arm pivots, Bucket pivots, and Boom pivots.
 
 ## Recommended IDE Setup
 
